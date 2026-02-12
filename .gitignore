@@ -24,6 +24,8 @@ wheels/
 venv/
 env/
 ENV/
+node_modules/
+.next/  
 
 # Environment variables
 .env

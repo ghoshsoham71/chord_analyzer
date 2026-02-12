@@ -63,7 +63,7 @@ Edit `.env` and add your API credentials:
 **Option A: OpenAI (Recommended)**
 - Best for audio analysis
 - Get API key from https://platform.openai.com/api-keys
-- Set `OPENAI_API_KEY` in `.env`
+- Set `GROQ_API_KEY` in `.env`
 - Use `AUDIO_ANALYSIS_MODEL=gpt-4o-audio-preview`
 
 **Option B: Google Gemini (Free tier available)**

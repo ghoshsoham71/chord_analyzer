@@ -22,7 +22,7 @@ GENIUS_ACCESS_TOKEN=your_genius_access_token
 
 # LiteLLM Configuration (supports multiple providers)
 # Option 1: OpenAI (for audio analysis - supports audio input)
-OPENAI_API_KEY=your_openai_api_key
+GROQ_API_KEY=your_GROQ_API_KEY
 
 # Option 2: Anthropic Claude (for audio analysis - supports audio input)
 # ANTHROPIC_API_KEY=your_anthropic_api_key
